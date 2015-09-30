@@ -1,0 +1,28 @@
+{
+  "name": "osr-mongoose",
+  "version": "0.0.1",
+  "description": "osr,mongoose,schema",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscava/osr-mongoose.git"
+  },
+  "keywords": [
+    "osr",
+    "mongoose",
+    "schema"
+  ],
+  "author": "cava.zhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oscava/osr-mongoose/issues"
+  },
+  "homepage": "https://github.com/oscava/osr-mongoose#readme",
+  "readmeFile":"README.md"
+}
